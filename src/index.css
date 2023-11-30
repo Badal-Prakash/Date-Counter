@@ -1,0 +1,15 @@
+*{
+  background-color: #111;
+  color: #fff;
+  
+}
+.main-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button-c{
+  margin:15px;
+  font-size: 25px;
+}
